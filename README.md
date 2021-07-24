@@ -1,4 +1,4 @@
 # Exercicios DEVPRO Python Brasil
-Lista de Exercícios Desafio Devpro - PythonBrasil
+Resolução da lista de exercícios da [PythonBrasil](https://wiki.python.org.br/ListaDeExercicios) - Desafio Devpro - 
 
 [Estrutura sequencial](https://github.com/leonardolginfo/ExerciciosDEVPROPythonBrasil/tree/master/venv/EstruturaSequencial)
