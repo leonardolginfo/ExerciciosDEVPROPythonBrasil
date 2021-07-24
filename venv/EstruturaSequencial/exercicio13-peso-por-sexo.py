@@ -28,6 +28,8 @@ else:
         elif(sexo!='HOMEM' or sexo != 'MULHER'):
             print('Você precisa informar se é HOMEM ou MULHER.')
 
+print("FIM DO PROGRAMA")
+
 
 
 
